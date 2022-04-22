@@ -1,5 +1,8 @@
 _repo: Yorktown-Climax-of-the-Revolution_67745
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67745-h/images/cover.jpg
 creator:
   editors:
   - agent_name: Pitkin, Thomas M.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '34827'
     url: http://www.gutenberg.org/2009/agents/34827
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67745#Yorktown-Climax-of-the-Revolution
 gutenberg_issued: '2022-03-31'
 identifiers:
   gutenberg: '67745'
