@@ -1,0 +1,28 @@
+_repo: Yorktown-Climax-of-the-Revolution_67745
+_version: 0.0.1
+creator:
+  editors:
+  - agent_name: Pitkin, Thomas M.
+    gutenberg_agent_id: '54435'
+    url: http://www.gutenberg.org/2009/agents/54435
+  - agent_name: Hatch, Charles E., Jr.
+    gutenberg_agent_id: '34827'
+    url: http://www.gutenberg.org/2009/agents/34827
+description: ''
+gutenberg_issued: '2022-03-31'
+identifiers:
+  gutenberg: '67745'
+language: en
+pgterms:marc905: 20201116150003hatchjr
+pgterms:marc906: '1941'
+pgterms:marc907: US
+production_note: Stephen Hutcheson, Craig Kirkwood, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net.
+publication_note: United States :U. S. Government Printing Office,1941,reprint 1956.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Yorktown: Climax of the Revolution'
+url: http://www.gutenberg.org/ebooks/67745
